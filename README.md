@@ -12,7 +12,7 @@ This site serves as a single place to connect with me, learn about my work, and 
 
 ## 🔗 Live Website
 
-👉 [Visit plusanu.github.io](https://plusanu.github.io)
+👉 [Visit my Page](https://plusanu.us)
 
 ---
 
